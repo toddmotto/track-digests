@@ -1,0 +1,23 @@
+{
+  "name": "trackDigests",
+  "version": "1.0.0",
+  "homepage": "https://github.com/voux-io/track-digests",
+  "authors": [
+    "Voux.io"
+  ],
+  "description": "Track when $digest loops run",
+  "main": "dist/track-digests.js",
+  "keywords": [
+    "digests",
+    "angular",
+    "performance"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
