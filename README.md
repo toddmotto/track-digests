@@ -2,6 +2,8 @@
 
 trackDigests for AngularJS. Include the `<track-digests>` element to see how frequent `$digest` cycles run, and see what triggers them.
 
+<img style="max-width: 100%; width: 100%;" alt="Track $digests" src="https://cloud.githubusercontent.com/assets/1655968/11213174/8321b932-8d32-11e5-97cc-27a443ce936a.png">
+
 > [Working jsFiddle example](http://jsfiddle.net/toddmotto/6t5wy6wx)
 
 #### Usage
