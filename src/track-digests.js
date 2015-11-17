@@ -19,7 +19,7 @@
   trackDigests.$inject = ['$rootScope'];
 
   angular
-    .module('trackDigests', [])
+    .module('voux.trackDigests', [])
     .directive('trackDigests', trackDigests);
 
 })();

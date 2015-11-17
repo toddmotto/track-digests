@@ -9,7 +9,7 @@ Include `track-digests.js` in your AngularJS application as a dependency:
 
 ```js
 angular.module('app', [
-  'trackDigests'
+  'voux.trackDigests'
 ]);
 ```
 
@@ -39,7 +39,7 @@ Ensure you're using the files from the `dist` directory (contains compiled produ
   <script src="dist/track-digests.js"></script>
   <script>
   angular.module('app', [
-    'trackDigests'
+    'voux.trackDigests'
   ]);
   </script>
 </body>
